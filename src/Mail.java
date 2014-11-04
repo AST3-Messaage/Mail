@@ -193,7 +193,7 @@ public class Mail {
 		String copyto = "";// 抄送人邮件地址
 		String subject = "测试邮件";// 邮件标题
 		String content = "你好！";// 邮件内容
-		String username = "yuanzichao90@126.com";// 发件人真实的账户名
+		String username = "8888";// 发件人真实的账户名
 		String password = "xxxxxxxx";// 发件人密码
 		Mail.sendAndCc(smtp, from, to, copyto, subject, content, username, password);
 
