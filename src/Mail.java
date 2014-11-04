@@ -1,7 +1,9 @@
 
-/**
+/** 
+ * Name: Mail
+ * Description: send e-mail
+ * 
  * @author yuan
- *
  * @date 2014年10月10日 下午3:22:10
  */
 
